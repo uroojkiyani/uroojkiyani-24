@@ -1,2 +1,2 @@
-# uroojkiyani-24
+python project
 Python_journey
