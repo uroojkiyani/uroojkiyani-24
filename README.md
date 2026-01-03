@@ -1,3 +1,3 @@
-python project
+Exploring Python 
 <br>
-Python_journey
+Beginner-friendly projects
